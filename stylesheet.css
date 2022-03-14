@@ -11,6 +11,7 @@ body {
 h2 {
     font-size: 5rem;
     font-weight: bold;
+    padding: 4rem;
 }
 
 .new-year {
@@ -24,6 +25,7 @@ h2 {
 .countdown {
     display: flex;
     justify-content: space-around;
+    text-align: center;
 }
 
 .day,
@@ -31,4 +33,8 @@ h2 {
 .minute,
 .second {
     font-size: 3rem;
+}
+
+.snow {
+    height: 50vh;
 }

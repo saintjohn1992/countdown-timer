@@ -6,12 +6,16 @@
 
 body {
     font-family: monospace, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(https://wallpaperaccess.com/full/2637206.jpg);
+    background-size: 1000px 1000px;
+    color: white;
 }
 
 h2 {
     font-size: 5rem;
     font-weight: bold;
     padding: 4rem;
+    text-align: center;
 }
 
 .new-year {
@@ -33,8 +37,4 @@ h2 {
 .minute,
 .second {
     font-size: 3rem;
-}
-
-.snow {
-    height: 50vh;
 }
